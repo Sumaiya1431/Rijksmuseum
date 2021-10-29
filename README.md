@@ -10,10 +10,10 @@ Example: ``node anagrams.js "rope,pore,repo,red rum,murder,listen,silent,endeavo
 ### Output   
 
 [    
-&nbsp;[ "'rope'", "'pore'", "'repo'" ],    
-  [ "'red rum'", "'murder'" ],    
-  [ "'listen'", "'silent'" ],    
-  [ "'endeavour'" ]      
+&nbsp;&nbsp;&nbsp;[ "'rope'", "'pore'", "'repo'" ],    
+&nbsp;&nbsp;&nbsp;  [ "'red rum'", "'murder'" ],    
+ &nbsp;&nbsp;&nbsp; [ "'listen'", "'silent'" ],    
+ &nbsp;&nbsp;&nbsp; [ "'endeavour'" ]      
 ]          
 
 
