@@ -7,3 +7,12 @@ where
 
 Example: ``node anagrams.js "rope,pore,repo,red rum,murder,listen,silent,endeavour"``    
 
+### Output   
+
+[
+  [ "'rope'", "'pore'", "'repo'" ],
+  [ "'red rum'", "'murder'" ],
+  [ "'listen'", "'silent'" ],
+  [ "'endeavour'" ]
+]
+
