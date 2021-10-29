@@ -16,6 +16,7 @@ for (var sorted in anagrams) {
     output.push(anagrams[sorted]);
 }
 
+
 console.log(output);
 
 function sortWord(word){
