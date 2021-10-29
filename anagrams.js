@@ -27,10 +27,6 @@ function createAnagrams(words){
     }
 }
 
-
-
-
-
 function sortWord(word){
     return word.replace(/ +/g,"").split('').sort().join('');
 }
